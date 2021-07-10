@@ -1,3 +1,13 @@
+/**
+ * Problem Statements: Design an efficient in-memory queueing system with low latency requirements
+ * and also write producer and consumer using multithreading.
+ * <p>
+ * This code is free to used and add new feature into it.
+ * </p>
+ *
+ * @Author: Baidyanath Prasad
+ * @Contact: baidyanathprasadmdb@gmail.com
+ */
 package com.queue.messaging;
 
 import com.queue.messaging.consumer.Consumer;
